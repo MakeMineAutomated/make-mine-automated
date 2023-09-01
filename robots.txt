@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://makemineautomated.github.io/make-mine-automated/sitemap.xml
