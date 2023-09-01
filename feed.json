@@ -9,5 +9,19 @@
         "name": "MakeMineAutomated"
     },
     "items": [
+        {
+            "id": "https://makemineautomated.github.io/make-mine-automated/under-construction/",
+            "url": "https://makemineautomated.github.io/make-mine-automated/under-construction/",
+            "title": "Under Construction",
+            "summary": "Make Mine Automated is a blog all about automation and all the ways we can accomplish it.",
+            "content_html": "<p>Make Mine Automated is a blog all about automation and all the ways we can accomplish it.</p>\n",
+            "author": {
+                "name": "MakeMineAutomated"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-01T21:45:16+10:00",
+            "date_modified": "2023-09-01T21:45:16+10:00"
+        }
     ]
 }

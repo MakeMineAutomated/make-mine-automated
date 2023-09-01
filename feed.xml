@@ -3,10 +3,31 @@
     <title>MakeMineAutomated</title>
     <link href="https://makemineautomated.github.io/make-mine-automated/feed.xml" rel="self" />
     <link href="https://makemineautomated.github.io/make-mine-automated" />
-    <updated>1970-01-01T10:00:00+10:00</updated>
+    <updated>2023-09-01T21:45:16+10:00</updated>
     <author>
         <name>MakeMineAutomated</name>
     </author>
     <id>https://makemineautomated.github.io/make-mine-automated</id>
 
+    <entry>
+        <title>Under Construction</title>
+        <author>
+            <name>MakeMineAutomated</name>
+        </author>
+        <link href="https://makemineautomated.github.io/make-mine-automated/under-construction/"/>
+        <id>https://makemineautomated.github.io/make-mine-automated/under-construction/</id>
+
+        <updated>2023-09-01T21:45:16+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Make Mine Automated is a blog all about automation and all the ways we can accomplish it.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Make Mine Automated is a blog all about automation and all the ways we can accomplish it.</p>
+
+            ]]>
+        </content>
+    </entry>
 </feed>
